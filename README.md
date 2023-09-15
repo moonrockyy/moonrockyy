@@ -1,15 +1,15 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Mahan</a> 👋
+Hi there, I'm <a href="https://mahanjafari.vercel.app/" target="_blank" rel="noreferrer">Mahan</a> 👋
 </h3>
 
 <p align="center">
-Software Engineering student graduated from BNUT with +2 years of experience in the field of web development. Interested in solving difficult problems and helping others to improve their career in the industry.
+Software engineering student graduated from BNUT with +2 years of experience in the field of web development. Interested in solving difficult problems and helping others to improve their career in the industry.
 </p> 
 
 ### Connect with me 🤝
 
 <a href="https://www.linkedin.com/in/mahanjafarii/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mahan Jafari | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/telegram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new" width="21px"/></a>
 <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 
