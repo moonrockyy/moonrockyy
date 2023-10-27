@@ -19,5 +19,4 @@ Software engineering student graduated from BNUT with +2 years of experience in 
 
 <a href="https://www.linkedin.com/in/mahanjafarii/"><img align="left" src="/images/LinkedIN.svg" alt="LinkedIn" /></a>
 <a href="https://t.me/mahanjafary"><img align="left" src="/images/Telegram.svg" alt="Telegram" /></a>
-<a href="https://medium.com/@mahanjafari"><img align="left" src="/images/Twitter.svg" alt="Twitter" /></a>
 </br>
