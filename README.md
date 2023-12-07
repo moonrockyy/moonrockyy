@@ -14,9 +14,3 @@ Software engineering student graduated from BNUT with +2 years of experience in 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moonrockyy&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrockyy&layout=compact&langs_count=5&theme=radical"/>
 </div>
-
-## Connect with me 🤝
-
-<a href="https://www.linkedin.com/in/mahanjafarii/"><img align="left" src="/images/LinkedIN.svg" alt="LinkedIn" /></a>
-<a href="https://t.me/mahanjafary"><img align="left" src="/images/Telegram.svg" alt="Telegram" /></a>
-</br>
