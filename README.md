@@ -8,9 +8,6 @@ Software engineering student graduated from BNUT with +2 years of experience in 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moonrockyy&label=Profile%20views&color=0e75b6&style=flat" alt="champimagic" /> </p>
 
-## GitHub Stats 📈
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moonrockyy&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrockyy&layout=compact&langs_count=5&theme=radical"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=moonrockyy&theme=radical&hide_border=true" width="90%" />
+</p>
